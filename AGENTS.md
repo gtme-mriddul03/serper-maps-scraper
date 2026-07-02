@@ -88,6 +88,28 @@ Only one mode exists:
 
 `raw_zip_max` queries every ZIP seed for the seed-derived state and keyword.
 
+## Running Specific States
+
+The state is derived from the seed, so **one `seed` command scrapes exactly one
+state** — every ZIP+city in that state, regardless of which ZIP you seed with.
+Any ZIP row belonging to the target state works as the seed.
+
+To run a chosen set of states, run one `seed` command per state (each is
+independent; results dedupe into the same DB):
+
+```bash
+python3 -m scraper seed --mode raw_zip_max --keyword-id architect \
+  --seed "Architect, 20289, Washington, DC, US" \
+  --max-serper-queries-per-seed 30 --workers 25
+python3 -m scraper seed --mode raw_zip_max --keyword-id architect \
+  --seed "Architect, 19711, Newark, DE, US" \
+  --max-serper-queries-per-seed 30 --workers 25
+```
+
+There is no single "all states" command; loop the above, picking one seed row
+per state from `us_input_locations_for_maps.csv`. `run_all_states_except_utah.py`
+is a working example of that loop.
+
 Serper query text is built as:
 
 ```text
