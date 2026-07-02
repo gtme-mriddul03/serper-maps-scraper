@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv/
+data/*.db
+outputs/*.csv
+outputs/*.json
+outputs/*.jsonl
+logs/
+# local tooling / editor state
+.claude/
+.codex/
+.tokensave/
+.DS_Store

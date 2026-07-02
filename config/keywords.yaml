@@ -1,0 +1,26 @@
+keywords:
+  - id: design_build_firms
+    category: design_build_firms
+    query: Design Build Firms
+    enabled: true
+    priority: 10
+  - id: architect
+    category: architect
+    query: Architect
+    enabled: true
+    priority: 20
+  - id: civil_engineering
+    category: civil_engineering
+    query: Civil Engineering
+    enabled: true
+    priority: 30
+  - id: structural_engineering
+    category: structural_engineering
+    query: Structural Engineering
+    enabled: true
+    priority: 40
+  - id: urban_planners
+    category: urban_planners
+    query: Urban Planners
+    enabled: true
+    priority: 50
