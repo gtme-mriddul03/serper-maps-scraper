@@ -1,0 +1,2 @@
+run_id,mode,keyword_id,state,seed_type,seed_value,status,latency_ms,result_count,new_unique_businesses,api_request_count,retry_count,estimated_credit_usage,pagination_stop_reason,query_text,http_status,error_message,fingerprint
+20260625T141926Z_raw_zip_max_3cd2c0ad,raw_zip_max,architect,DC,raw_zip,20015,success,5572,30,14,3,0,3,query_budget_exhausted,Architect 20015,200,,d5c7b729f4e32f83cf76856968983e46a19a75c1

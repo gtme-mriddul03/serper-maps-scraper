@@ -1,0 +1,71 @@
+run_id,mode,keyword_id,state,seed_type,seed_value,status,latency_ms,result_count,new_unique_businesses,api_request_count,retry_count,estimated_credit_usage,pagination_stop_reason,query_text,http_status,error_message,fingerprint
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,city_state,"Birmingham, AL",success,8631,50,38,5,0,5,max_pages,"Design Build Firms Birmingham, AL",200,,16229018cdb35064fae6ce48f655db0dedb287c2
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,raw_zip,35204,success,3005,10,2,2,0,2,empty_page,Design Build Firms 35204,200,,2ab5cf87aba781dc1c161ca5db0994c47b515cb5
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,raw_zip,35205,success,5229,20,7,3,0,3,empty_page,Design Build Firms 35205,200,,687717ab65a23fdba1b77b0401290cb9c3e561d8
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,raw_zip,35206,success,3002,11,3,2,0,2,short_page,Design Build Firms 35206,200,,ad704c7a0ed3e45c149f21dab306646e87924eca
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,raw_zip,35209,success,6102,30,15,4,0,4,empty_page,Design Build Firms 35209,200,,bebeecb32553af026a1caf5c66eb07324d283d6d
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AL,raw_zip,35211,success,7334,33,15,4,0,4,short_page,Design Build Firms 35211,200,,15bc4d4603b2e81861b5b50f815aa7a52d9fc3b7
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,city_state,"Phoenix, AZ",success,2595,10,10,2,0,2,empty_page,"Design Build Firms Phoenix, AZ",200,,4413c0f3fa14cc1cf0a4ef1d1b38b9cacf92db16
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85001,success,3019,16,14,2,0,2,short_page,Design Build Firms 85001,200,,050f29314638d59883a68b2ba39fb0085a1570b4
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85002,success,1103,5,4,1,0,1,short_page,Design Build Firms 85002,200,,7984dc24c9dd6b58a263a41d0c1a21ed452c535a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85003,success,5802,20,13,3,0,3,empty_page,Design Build Firms 85003,200,,c897e1b33b66b5d8df252d19fcbd197600dc4c19
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85005,success,2779,11,6,2,0,2,short_page,Design Build Firms 85005,200,,fd2b4ff1049389a4504648dc84c71c068245cc6a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85006,success,2211,1,0,1,0,1,short_page,Design Build Firms 85006,200,,8cb3a0d600a5c9524a3bd3472ac999785b8db9cc
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85007,success,3007,10,7,2,0,2,empty_page,Design Build Firms 85007,200,,0f8a568be7513e3ceff5b8de595f9d29d2c7fbe6
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85008,success,2249,6,2,1,0,1,short_page,Design Build Firms 85008,200,,3aaef7751a1232e9db1863a9857667a4e619b1f0
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85009,success,3605,10,4,2,0,2,empty_page,Design Build Firms 85009,200,,90244ec89d5092b76746395934034ea810c7f71d
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85010,success,4130,8,8,1,0,1,short_page,Design Build Firms 85010,200,,75a26c7387530c5ea9832325f60125828f474d5f
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85011,success,1034,0,0,1,0,1,empty_page,Design Build Firms 85011,200,,ca8dcc165efee161c743f10389e17905a7de9127
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,AZ,raw_zip,85012,success,3009,20,10,2,0,2,query_budget_exhausted,Design Build Firms 85012,200,,363c631bd47f006aa28818e93631e1192b198e6c
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CA,city_state,"San Diego, CA",success,12515,50,34,5,0,5,max_pages,"Design Build Firms San Diego, CA",200,,54e7fae93e6706d3979726ececbabc93ef41bd46
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CA,raw_zip,92101,success,4401,10,2,2,0,2,empty_page,Design Build Firms 92101,200,,914ef12cce7fbadeedd3b4ab677e24814e387d83
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CA,raw_zip,92102,success,6889,50,28,5,0,5,max_pages,Design Build Firms 92102,200,,2e202a151838c9d3d6feff218b22cf8be4f39239
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CA,raw_zip,92103,success,9014,40,23,5,0,5,empty_page,Design Build Firms 92103,200,,31c03a26e477cfeef2e3707bdf50d62b43856667
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CA,raw_zip,92104,success,6131,30,10,3,0,3,query_budget_exhausted,Design Build Firms 92104,200,,81a2e7888ca1924ff238cc4b6a7fe47929cd861a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,city_state,"Denver, CO",success,6019,30,21,4,0,4,empty_page,"Design Build Firms Denver, CO",200,,eb60f6d6bc5193d99180296b40cd66160bcaedc7
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80201,success,2384,14,10,2,0,2,short_page,Design Build Firms 80201,200,,a266b4cb9ee29d8750b3d2ece50632cf0d1dd5f0
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80203,success,6982,36,20,4,0,4,short_page,Design Build Firms 80203,200,,763138889803634fc2ef7322450e6cf016ba5d6c
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80204,success,3608,27,13,3,0,3,short_page,Design Build Firms 80204,200,,3238d98b023a417f4b13b54e000192b8bec4fc06
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80205,success,4560,20,17,3,0,3,no_new_businesses,Design Build Firms 80205,200,,97e203a8f7226fc2d0d7b2ce6321610b427ef02c
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80206,success,2405,0,0,1,0,1,empty_page,Design Build Firms 80206,200,,8229aa2dd2844e761112642cfa3692a2883b9c3f
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CO,raw_zip,80207,success,4282,20,15,3,0,3,no_new_businesses,Design Build Firms 80207,200,,a00df8d85b00120bfa6e0c0b43bd214f90897424
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,city_state,"Bridgeport, CT",success,9284,50,39,5,0,5,max_pages,"Design Build Firms Bridgeport, CT",200,,1b10f4a4e4a93d9f15bfaa539bfa04b6064be287
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6601,success,1073,8,5,1,0,1,short_page,Design Build Firms 6601,200,,c37531e8c264fde9b8973c3f467be5c4c3ff2562
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6604,success,2880,10,10,2,0,2,empty_page,Design Build Firms 6604,200,,c082bc4fc98a182f6950d697f73190391ad84dc8
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6605,success,1098,5,5,1,0,1,short_page,Design Build Firms 6605,200,,5d087066c18c0d4494c751559d82f7d6f7927e56
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6606,success,1152,2,2,1,0,1,short_page,Design Build Firms 6606,200,,3581f575e39384614f3c616619eb81739ffff5df
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6607,success,1432,8,8,1,0,1,short_page,Design Build Firms 6607,200,,48884ae856afa96547f09180a7a8328ee75c2ff4
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6608,success,1909,4,4,1,0,1,short_page,Design Build Firms 6608,200,,2f7760004f93851281189781c217593e5dc9f0bb
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6610,success,2086,6,6,1,0,1,short_page,Design Build Firms 6610,200,,78faa538bd7332620032fafa2a49fd77a4b7c459
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,city_state,"Norwalk, CT",success,8629,50,37,5,0,5,max_pages,"Design Build Firms Norwalk, CT",200,,8dd4ef3021bd6c7cbd0a63f2625806b89c5419cb
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6850,success,1541,3,3,1,0,1,short_page,Design Build Firms 6850,200,,4c26b10c0b563ea9b8f77a6e544c8cf98384b45a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,CT,raw_zip,6851,success,1018,8,7,1,0,1,short_page,Design Build Firms 6851,200,,97fcf76e0928886e8857c016ab7f03189ffa609a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,city_state,"Washington, DC",success,7289,50,39,5,0,5,max_pages,"Design Build Firms Washington, DC",200,,5cec4f15516a29f11b9de5cd7916574f7a6f7222
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20012,success,1038,8,7,1,0,1,short_page,Design Build Firms 20012,200,,4be6d78ff9db4a144f577a04d670cc833c2a649d
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20015,success,2410,12,6,2,0,2,short_page,Design Build Firms 20015,200,,68f91df48d34dc4ce626a6e60a5e44526d58bfcb
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20022,success,1638,2,2,1,0,1,short_page,Design Build Firms 20022,200,,35c669f25042d005934c22a66b8958d6e0c9463a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20030,success,2263,0,0,1,0,1,empty_page,Design Build Firms 20030,200,,637b9738c55017ec742f89801370be25f9c27931
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20032,success,8334,50,43,5,0,5,max_pages,Design Build Firms 20032,200,,b8fac3e583a8827c1a91fd11f892a6d20e74df9e
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20035,success,886,2,2,1,0,1,short_page,Design Build Firms 20035,200,,58135ff7ab046486dce124677810fa42f04082bb
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20038,success,2936,1,1,1,0,1,short_page,Design Build Firms 20038,200,,d530fe123c9e31f7582b0c1d90cbfecf0c0b6449
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20039,success,1207,1,1,1,0,1,short_page,Design Build Firms 20039,200,,d2d66491261a761969dd46d4e8d1129ba37ca1f0
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DC,raw_zip,20041,success,2919,10,9,2,0,2,empty_page,Design Build Firms 20041,200,,b1cc191429351db7d3eb0314e280bbbecc0ed701
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DE,city_state,"Wilmington, DE",success,8068,40,32,5,0,5,empty_page,"Design Build Firms Wilmington, DE",200,,48b74d508c82b1854fc6e50fdbf1ac5851673471
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DE,raw_zip,19801,success,8507,50,22,5,0,5,max_pages,Design Build Firms 19801,200,,eadbfe64e0a72e8fc5e3b5ef28a135c6a002ba3e
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DE,raw_zip,19802,success,8575,40,24,5,0,5,empty_page,Design Build Firms 19802,200,,8f07d5ddbc42b0fa329cf8396c6b04ef80beb786
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DE,raw_zip,19803,success,5781,30,15,4,0,4,empty_page,Design Build Firms 19803,200,,c55623f8a87b2d736b27b2e26be802a64b232c8a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,DE,raw_zip,19804,success,1194,10,0,1,0,1,query_budget_exhausted,Design Build Firms 19804,200,,ef239af9f827cc71cd9044d1f5d14295ebe8ffa5
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,city_state,"Miami, FL",success,8129,50,38,5,0,5,max_pages,"Design Build Firms Miami, FL",200,,b5d42bd439a762f5fc22534996bcbf43b5f991cc
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33101,success,3381,10,7,2,0,2,empty_page,Design Build Firms 33101,200,,a5c0007092812dd0dd2dde745a492053d7a35ca4
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33102,success,1421,7,7,1,0,1,short_page,Design Build Firms 33102,200,,5c1c8c1122d8490c21e3d4c8ffe81e8084bcde15
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33111,success,1678,3,3,1,0,1,short_page,Design Build Firms 33111,200,,773539b72b27122e7de0a64589c2c581dcf28b8a
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33112,success,2763,10,8,2,0,2,empty_page,Design Build Firms 33112,200,,7c381a19031e29105c7bd4973b3f3c74b8758955
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33116,success,1733,0,0,1,0,1,empty_page,Design Build Firms 33116,200,,20fc3f2bf50a152523d1b4769778bcd10e870f2e
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33122,success,3627,10,8,2,0,2,empty_page,Design Build Firms 33122,200,,2fc6a796654060eb98caaa3ebf3a7d19baab6331
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33124,success,2325,10,5,2,0,2,empty_page,Design Build Firms 33124,200,,e941ebef7d3b76348d3dcecb4177318477ac3c98
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,FL,raw_zip,33125,success,6292,36,29,4,0,4,short_page,Design Build Firms 33125,200,,5811893ed808e8e70c3c58d7f9d89d420bc53c68
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,GA,city_state,"Marietta, GA",success,7898,40,36,5,0,5,empty_page,"Design Build Firms Marietta, GA",200,,38d9bd4f970fa356946e9fab5a51e24d6c37597b
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,GA,raw_zip,30060,success,1452,0,0,1,0,1,empty_page,Design Build Firms 30060,200,,0ea1be7e3200042d5ec9245140f11ed35dce1d42
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,GA,raw_zip,30061,success,4204,10,10,2,0,2,empty_page,Design Build Firms 30061,200,,29bb9163f56d0681f5c600ac4b647a59b622f5b9
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,GA,raw_zip,30062,success,8216,50,28,5,0,5,max_pages,Design Build Firms 30062,200,,db5ded1e9eb7360f313cf77e8a413d74018c45ea
+20260625T063149Z_hybrid_expand_5cb98958,hybrid_expand,design_build_firms,GA,raw_zip,30063,success,1419,6,1,1,0,1,short_page,Design Build Firms 30063,200,,2cc314e7b7cfbaaa39b089089e9bfd0c042e3aa6

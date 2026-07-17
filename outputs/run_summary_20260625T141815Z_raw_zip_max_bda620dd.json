@@ -1,0 +1,39 @@
+{
+  "command": "seed",
+  "duplicates_collapsed": 7,
+  "estimated_credits": 3,
+  "failed_requests": 0,
+  "keyword_category": "architect",
+  "keyword_id": "architect",
+  "keyword_query": "Architect",
+  "keywords_ran": [
+    "architect"
+  ],
+  "mode": "raw_zip_max",
+  "new_unique_businesses_added": 21,
+  "request_log_path": "/Users/mridulanand/Desktop/Vibe Coding/gmaps-scraper/outputs/request_log_20260625T141815Z_raw_zip_max_bda620dd.csv",
+  "run_id": "20260625T141815Z_raw_zip_max_bda620dd",
+  "seed": "architects, 20289, Washington, DC, US",
+  "seed_keyword_hint": "architects",
+  "seed_location": {
+    "city": "Washington",
+    "country": "US",
+    "state": "DC",
+    "zip_code": "20289"
+  },
+  "seeds_ran": [
+    "raw_zip:20012"
+  ],
+  "serper_queries_remaining": 0,
+  "skipped_completed_requests": 0,
+  "state": "DC",
+  "state_location_count": 37,
+  "state_zip_count": 37,
+  "states_ran": [
+    "DC"
+  ],
+  "targeted_state": "DC",
+  "total_requests": 3,
+  "total_results": 30,
+  "unique_businesses_found": 23
+}
