@@ -1,0 +1,25 @@
+{
+  "command": "seed",
+  "effective_max_serper_queries": 27990,
+  "keyword_id": "architect",
+  "keyword_query": "Architect",
+  "live_log_path": "/Users/mridulanand/Desktop/Vibe Coding/gmaps-scraper/outputs/live_run_20260702T132733Z_raw_zip_max_9ee4ef39.jsonl",
+  "max_possible_serper_queries_at_seed_cap": 27990,
+  "mode": "raw_zip_max",
+  "request_log_path": "/Users/mridulanand/Desktop/Vibe Coding/gmaps-scraper/outputs/request_log_20260702T132733Z_raw_zip_max_9ee4ef39.csv",
+  "requested_max_serper_queries": null,
+  "requested_max_serper_queries_per_seed": 30,
+  "run_id": "20260702T132733Z_raw_zip_max_9ee4ef39",
+  "seed": "Architect, 10001, New York, NY, US",
+  "seed_keyword_hint": "Architect",
+  "seed_location": {
+    "city": "New York",
+    "country": "US",
+    "state": "NY",
+    "zip_code": "10001"
+  },
+  "state_location_count": 933,
+  "state_seed_count": 933,
+  "targeted_state": "NY",
+  "workers_requested": 25
+}
