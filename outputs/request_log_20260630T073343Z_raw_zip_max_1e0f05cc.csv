@@ -1,0 +1,5 @@
+run_id,mode,keyword_id,state,seed_type,seed_value,status,latency_ms,result_count,new_unique_businesses,api_request_count,retry_count,estimated_credit_usage,pagination_stop_reason,query_text,http_status,error_message,fingerprint
+20260630T073343Z_raw_zip_max_1e0f05cc,raw_zip_max,architect,UT,raw_zip,82930,success,2962,13,13,2,0,2,short_page,Architect 82930,200,,8eef62b8ba5797bb3972da8d4222c8f26ff5d82d
+20260630T073343Z_raw_zip_max_1e0f05cc,raw_zip_max,architect,UT,raw_zip,84001,success,3156,10,8,2,0,2,empty_page,Architect 84001,200,,2a32793b4daa78df4b6845afc1f4d9035585c7a6
+20260630T073343Z_raw_zip_max_1e0f05cc,raw_zip_max,architect,UT,raw_zip,84002,success,6282,30,29,4,0,4,empty_page,Architect 84002,200,,8234220d12ad20d3260a20aaf93262ca86012bd2
+20260630T073343Z_raw_zip_max_1e0f05cc,raw_zip_max,architect,UT,raw_zip,84003,success,3122,20,20,2,0,2,query_budget_exhausted,Architect 84003,200,,df9cd1bca453618460bcc299f9ac9b23601d94b2

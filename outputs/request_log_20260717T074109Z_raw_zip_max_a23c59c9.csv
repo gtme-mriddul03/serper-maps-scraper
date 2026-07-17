@@ -1,0 +1,1 @@
+run_id,mode,keyword_id,state,seed_type,seed_value,status,latency_ms,result_count,new_unique_businesses,api_request_count,retry_count,estimated_credit_usage,pagination_stop_reason,query_text,http_status,error_message,fingerprint

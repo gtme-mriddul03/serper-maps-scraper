@@ -1,0 +1,4 @@
+run_id,mode,keyword_id,state,seed_type,seed_value,status,latency_ms,result_count,new_unique_businesses,api_request_count,retry_count,estimated_credit_usage,pagination_stop_reason,query_text,http_status,error_message,fingerprint
+20260702T134000Z_raw_zip_max_558a2f29,raw_zip_max,architect,NY,raw_zip,"14263, Buffalo",success,6104,30,1,4,0,4,empty_page,"Architect, 14263, Buffalo, NY, US",200,,23ad2320753c1cfe9df62897d4d60badd9609c68
+20260702T134000Z_raw_zip_max_558a2f29,raw_zip_max,architect,NY,raw_zip,"14223, Buffalo",success,7899,40,2,5,0,5,repeated_page,"Architect, 14223, Buffalo, NY, US",200,,c5db79c3f2a4ddc45d9a18380ee09a2b167b0093
+20260702T134000Z_raw_zip_max_558a2f29,raw_zip_max,architect,NY,raw_zip,"14226, Buffalo",success,11445,69,5,7,0,7,short_page,"Architect, 14226, Buffalo, NY, US",200,,ad390ba3ada239b6e3ea8d593d3a9f1cd59f7d51
